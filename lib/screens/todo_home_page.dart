@@ -52,7 +52,7 @@ class _TodoHomePageState extends State<TodoHomePage> {
                   child: TextField(
                     controller: _controller,
                     decoration: const InputDecoration(
-                      hintText: 'Enter a task',
+                      hintText: 'Enter Task',
                       border: OutlineInputBorder(),
                     ),
                   ),
